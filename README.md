@@ -289,13 +289,13 @@ A from-first-principles neural network built in raw Python and NumPy — no fram
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-PyDev&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=E8C766&icon_color=E8C766&text_color=B8A578&ring_color=E8C766" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-PyDev&theme=transparent&hide_border=true&background=00000000&ring=E8C766&fire=E8C766&currStreakLabel=E8C766&sideLabels=B8A578&currStreakNum=E8C766&sideNums=B8A578&dates=6B5F42" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-PyDev&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E8C766&icon_color=E8C766&text_color=B8A578&ring_color=E8C766&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-PyDev&hide_border=true&background=0A0A0A&ring=E8C766&fire=E8C766&currStreakLabel=E8C766&sideLabels=B8A578&currStreakNum=E8C766&sideNums=B8A578&dates=6B5F42" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-PyDev&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=E8C766&text_color=B8A578&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-PyDev&bg_color=00000000&color=E8C766&line=E8C766&point=B8A578&hide_border=true&custom_title=Activity" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-PyDev&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E8C766&text_color=B8A578&langs_count=8&cache_seconds=1800" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-PyDev&bg_color=0A0A0A&color=E8C766&line=E8C766&point=B8A578&hide_border=true&custom_title=Activity" width="49%" />
 
 </div>
 
