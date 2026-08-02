@@ -289,12 +289,12 @@ A from-first-principles neural network built in raw Python and NumPy — no fram
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-PyDev&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E8C766&icon_color=E8C766&text_color=B8A578&ring_color=E8C766&cache_seconds=1800" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api?username=Abdullah-PyDev&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E8C766&icon_color=E8C766&text_color=B8A578&ring_color=E8C766" width="49%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-PyDev&hide_border=true&background=0A0A0A&ring=E8C766&fire=E8C766&currStreakLabel=E8C766&sideLabels=B8A578&currStreakNum=E8C766&sideNums=B8A578&dates=6B5F42" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-PyDev&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E8C766&text_color=B8A578&langs_count=8&cache_seconds=1800" width="49%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdullah-PyDev&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E8C766&text_color=B8A578&langs_count=8" width="49%" />
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-PyDev&bg_color=0A0A0A&color=E8C766&line=E8C766&point=B8A578&hide_border=true&custom_title=Activity" width="49%" />
 
 </div>
@@ -305,21 +305,55 @@ A from-first-principles neural network built in raw Python and NumPy — no fram
 
 ## `06` — Learning Roadmap
 
-```
-2024 ──● Python Fundamentals · Git & GitHub · HTML / CSS / JS
-        │
-2025 ──● FastAPI · REST APIs · Pandas / NumPy · Prompt Engineering
-        │
-        ● OpenAI & Gemini APIs · Embeddings · Vector Search · RAG
-        │
-2026 ──● Agentic AI · Multi-Agent Systems      ◀── in progress
-        │
-        ● Model Context Protocol (MCP)          ◀── in progress
-        │
-        ● Docker · Kubernetes · Cloud Deployment
-        │
-        ○ Production AI Systems at Scale
-```
+<div align="center">
+<img src="https://progress-bar.xyz/62/?title=Overall%20Progress&width=420&color=E8C766&suffix=%25&titleColor=B8A578" />
+</div>
+
+<sub>Click a phase to expand.</sub>
+
+<details open>
+<summary><b>2024 · Foundations</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/COMPLETE-0A0A0A?style=flat-square&labelColor=0A0A0A&color=E8C766" /></summary>
+<br/>
+
+- [x] Python fundamentals
+- [x] Git & GitHub workflows
+- [x] HTML / CSS / JavaScript
+
+</details>
+
+<details open>
+<summary><b>2025 · Applied AI & Backend</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/COMPLETE-0A0A0A?style=flat-square&labelColor=0A0A0A&color=E8C766" /></summary>
+<br/>
+
+- [x] FastAPI & REST API design
+- [x] Pandas / NumPy
+- [x] Prompt engineering
+- [x] OpenAI & Gemini APIs
+- [x] Embeddings · vector search · RAG
+
+</details>
+
+<details open>
+<summary><b>2026 · Agentic Systems</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/IN%20PROGRESS-0A0A0A?style=flat-square&labelColor=0A0A0A&color=B8A578" /></summary>
+<br/>
+
+- [x] Agentic AI fundamentals
+- [ ] Multi-agent orchestration
+- [ ] Model Context Protocol (MCP)
+- [ ] Docker & Kubernetes
+- [ ] Production deployment at scale
+
+</details>
+
+<details>
+<summary><b>Next · Production Scale</b>&nbsp;&nbsp;<img src="https://img.shields.io/badge/UPCOMING-0A0A0A?style=flat-square&labelColor=0A0A0A&color=3A3A3A" /></summary>
+<br/>
+
+- [ ] Cloud-native deployment pipelines
+- [ ] Observability & monitoring for AI systems
+- [ ] Cost & latency optimization at scale
+
+</details>
 
 <br/>
 
