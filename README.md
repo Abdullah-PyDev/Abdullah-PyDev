@@ -1,237 +1,402 @@
 <!--
   ═══════════════════════════════════════════════════════════
   README.md — Abdullah Shafiq
-  Design system: single accent (#8A7CFF), monochrome badges,
-  no stock GIF headers, deliberate hierarchy — v2
+  Theme: Obsidian & Champagne Gold — v3
+  Full content restored, single luxury palette throughout
   ═══════════════════════════════════════════════════════════
 -->
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:151013,100:0A0A0A&height=220&section=header&text=ABDULLAH%20SHAFIQ&fontSize=46&fontColor=E8C766&fontAlignY=40&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Python%20Developer%20%C2%B7%20Builder&descAlignY=60&descSize=17&descColor=B8A578" width="100%"/>
+
 <br/>
 
-<h1 style="font-weight:600; letter-spacing:1px;">ABDULLAH SHAFIQ</h1>
-
-<sub><b>AI ENGINEER · PYTHON DEVELOPER · SYSTEMS THAT SHIP</b></sub>
-
-<br/><br/>
-
 <a href="https://github.com/Abdullah-PyDev">
-  <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&size=15&duration=2600&pause=1400&color=8A7CFF&center=true&vCenter=true&width=560&height=32&lines=Retrieval+%2B+memory+%2B+reasoning+%E2%80%94+not+just+prompts;Currently+building+MemoAI;Learning+agentic%2C+multi-agent+systems&background=00000000" alt="tagline" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+systems+that+ship;Turning+ideas+into+intelligent+products;RAG+%C2%B7+Agentic+AI+%C2%B7+LLM+Applications;Currently+shipping+MemoAI&font=Fira+Code&center=true&width=650&height=45&color=E8C766&vCenter=true&size=20&pause=1800&background=00000000" alt="Typing SVG" />
 </a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/GITHUB-Abdullah--PyDev-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/EMAIL-Reach%20Out-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
+<img src="https://img.shields.io/badge/-Artificial%20Intelligence%20Student-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E8C766" />
+<img src="https://img.shields.io/badge/-AI%20Engineer-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E8C766" />
+<img src="https://img.shields.io/badge/-Python%20Developer-0A0A0A?style=for-the-badge&labelColor=0A0A0A&color=E8C766" />
+
+<br/><br/>
+
+<a href="https://github.com/Abdullah-PyDev">
+  <img src="https://img.shields.io/badge/GitHub-Abdullah--PyDev-0A0A0A?style=flat-square&logo=github&logoColor=E8C766&labelColor=0A0A0A" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=flat-square&logo=linkedin&logoColor=E8C766&labelColor=0A0A0A" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Email-Reach%20Out-0A0A0A?style=flat-square&logo=gmail&logoColor=E8C766&labelColor=0A0A0A" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=Abdullah-PyDev&style=flat-square&color=0A0A0A&label=Profile+Views&labelColor=0A0A0A" />
 
 </div>
 
 <br/>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
 
-&nbsp;
+<br/>
 
-## About
+## `01` — About
 
-I build the layer between *"the model works in a notebook"* and *"the product works in production"* — retrieval pipelines, embeddings, semantic memory, and systems where an agent has to decide, not just answer.
+<table>
+<tr>
+<td width="65%" valign="top">
 
-Right now that means shipping `MemoAI` end to end, and moving from single-prompt tools toward agents that coordinate. I'd rather ship something small that's actually used than something impressive that stays a demo.
+I build software at the intersection of **language models and real business problems** — the kind of AI that doesn't stay a demo, but ends up doing actual work: reading documents, answering calls, remembering context, retrieving the right information at the right time.
+
+My focus right now is the practical middle layer of AI engineering — the part between *"the model works in a notebook"* and *"the product works in production"*: retrieval pipelines, embeddings, semantic memory, and increasingly, systems where multiple agents coordinate instead of a single prompt doing everything.
+
+I care about **clarity over cleverness**. Code that a teammate can read at 2 AM during an incident. Architecture that scales down to a solo prototype and up to a real user base.
 
 ```python
 class Engineer:
-    stack     = ("Python", "FastAPI", "LLMs", "RAG")
-    building  = "MemoAI — AI-powered PDF assistant with memory"
-    learning  = ("Agentic AI", "Multi-Agent Systems", "MCP")
-    principle = "Ship the version that's actually used."
+    def __init__(self):
+        self.stack = ["Python", "FastAPI", "LLMs", "RAG"]
+        self.mission = "Ship AI that solves real problems"
+        self.status = "building, learning, shipping"
+
+    def philosophy(self) -> str:
+        return "The best system is the one that's actually used."
 ```
 
-&nbsp;
-
-## Building Now
-
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
-
-**Agentic AI**
-<br/>
-<sub>Systems that plan and act, not just respond to a single prompt.</sub>
-
 </td>
-<td width="33%" valign="top">
+<td width="35%" valign="top">
 
-**Multi-Agent Systems**
-<br/>
-<sub>Coordinating specialized agents toward one shared objective.</sub>
-
-</td>
-<td width="33%" valign="top">
-
-**Model Context Protocol**
-<br/>
-<sub>Standardizing how a model reaches out to tools and data.</sub>
+**Currently**
+- 🔭&nbsp; Building `MemoAI`
+- 🌱&nbsp; Learning Agentic AI & MCP
+- 🎯&nbsp; 2026 goal — ship an AI SaaS product
+- 💬&nbsp; Ask me about RAG, embeddings, FastAPI
 
 </td>
 </tr>
 </table>
 
-&nbsp;
+<br/>
 
-## Stack
+<!-- ─────────────────────── FOCUS ─────────────────────── -->
+
+## `02` — Current Focus
 
 <table width="100%">
 <tr>
-<td width="18%"><sub><b>CORE</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/Python-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/TypeScript-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/JavaScript-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
+<td width="25%" align="center">
+
+**🧠 Agentic AI**
+<br/>
+<sub>Systems that plan and act, not just respond</sub>
+
 </td>
-</tr>
-<tr>
-<td><sub><b>AI / ML</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/OpenAI%20API-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/Gemini%20API-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/RAG-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/Embeddings-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/Vector%20Search-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/Sentence%20Transformers-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
+<td width="25%" align="center">
+
+**🔗 Multi-Agent Systems**
+<br/>
+<sub>Coordinating specialized agents toward one goal</sub>
+
 </td>
-</tr>
-<tr>
-<td><sub><b>BACKEND</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/FastAPI-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/Pydantic-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/REST%20APIs-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
+<td width="25%" align="center">
+
+**📦 Production AI**
+<br/>
+<sub>Docker, deployment, and shipping past the demo</sub>
+
 </td>
-</tr>
-<tr>
-<td><sub><b>FRONTEND</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/React-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/Streamlit-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-</td>
-</tr>
-<tr>
-<td><sub><b>DATA</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/Pandas-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/NumPy-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-</td>
-</tr>
-<tr>
-<td><sub><b>TOOLING</b></sub></td>
-<td>
-<img src="https://img.shields.io/badge/Git-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/Docker-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/Kubernetes-000000?style=flat-square&labelColor=000000&color=8A7CFF" />
+<td width="25%" align="center">
+
+**🔌 MCP**
+<br/>
+<sub>Standardizing how AI reaches tools & data</sub>
+
 </td>
 </tr>
 </table>
 
-&nbsp;
+<br/>
 
-## Featured Work
+<!-- ─────────────────────── STACK ─────────────────────── -->
+
+## `03` — Tech Stack
 
 <table width="100%">
 <tr>
-<td width="100%" valign="top">
+<td valign="top" width="18%"><sub><b>LANGUAGES</b></sub></td>
+<td valign="top">
 
-### MemoAI
+<img src="https://img.shields.io/badge/Python-0A0A0A?style=flat-square&logo=python&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/TypeScript-0A0A0A?style=flat-square&logo=typescript&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/JavaScript-0A0A0A?style=flat-square&logo=javascript&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/HTML5-0A0A0A?style=flat-square&logo=html5&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/CSS3-0A0A0A?style=flat-square&logo=css3&logoColor=E8C766" />
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>AI / ML</b></sub></td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/OpenAI%20API-0A0A0A?style=flat-square&logo=openai&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/Gemini%20API-0A0A0A?style=flat-square&logo=google&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/LLMs-0A0A0A?style=flat-square&logo=huggingface&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/RAG-0A0A0A?style=flat-square&logo=databricks&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/Embeddings-0A0A0A?style=flat-square&logo=chainlink&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/Sentence%20Transformers-0A0A0A?style=flat-square&logo=pytorch&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/Prompt%20Engineering-0A0A0A?style=flat-square&logo=openai&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/Vector%20Search-0A0A0A?style=flat-square&logo=elasticsearch&logoColor=E8C766" />
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>BACKEND</b></sub></td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/FastAPI-0A0A0A?style=flat-square&logo=fastapi&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/Pydantic-0A0A0A?style=flat-square&logo=pydantic&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/REST%20APIs-0A0A0A?style=flat-square&logo=fastapi&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/SQLite-0A0A0A?style=flat-square&logo=sqlite&logoColor=E8C766" />
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>FRONTEND</b></sub></td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/React-0A0A0A?style=flat-square&logo=react&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/Streamlit-0A0A0A?style=flat-square&logo=streamlit&logoColor=E8C766" />
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>DATA</b></sub></td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/Pandas-0A0A0A?style=flat-square&logo=pandas&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/NumPy-0A0A0A?style=flat-square&logo=numpy&logoColor=E8C766" />
+
+</td>
+</tr>
+<tr>
+<td valign="top"><sub><b>TOOLS & CLOUD</b></sub></td>
+<td valign="top">
+
+<img src="https://img.shields.io/badge/Git-0A0A0A?style=flat-square&logo=git&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/GitHub-0A0A0A?style=flat-square&logo=github&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/VS%20Code-0A0A0A?style=flat-square&logo=visualstudiocode&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/Docker-0A0A0A?style=flat-square&logo=docker&logoColor=E8C766" />
+<img src="https://img.shields.io/badge/Kubernetes-0A0A0A?style=flat-square&logo=kubernetes&logoColor=E8C766" />
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────── PROJECTS ─────────────────────── -->
+
+## `04` — Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+<h3>🧠 MemoAI</h3>
+
 **AI-powered PDF assistant with long-term memory**
 
-The flagship project — a full RAG pipeline that reads uploaded documents, builds semantic embeddings, and holds a conversation about their content across multiple turns, instead of treating each question in isolation.
+Reads documents, builds semantic embeddings, and holds a real conversation about their content — remembering earlier turns instead of treating each question in isolation.
+
+**Highlights**
+- Full RAG pipeline over uploaded PDFs
+- Semantic search via sentence embeddings
+- Persistent conversation memory & chat history
+- Streamlit interface backed by a FastAPI service layer
 
 `FastAPI` `Streamlit` `Sentence Transformers` `Gemini API` `Embeddings`
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-000000?style=flat-square&labelColor=000000&color=8A7CFF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Repository-0A0A0A?style=flat-square&logo=github&logoColor=E8C766&labelColor=0A0A0A" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-0A0A0A?style=flat-square&labelColor=0A0A0A&color=6B5F42" /></a>
+
+</td>
+<td width="50%" valign="top">
+<h3>📞 AI Voice Order Agent</h3>
+
+**Restaurant phone automation — in active development**
+
+Answers real phone calls and parses spoken orders in natural language, structuring them for a restaurant's ordering system.
+
+**Highlights**
+- Live phone call handling
+- Natural, low-latency conversational voice AI
+- Structured order extraction from unstructured speech
+- Built around real restaurant workflows
+
+`Voice AI` `LLMs` `Python` `Telephony`
+
+<a href="#"><img src="https://img.shields.io/badge/Repository-0A0A0A?style=flat-square&logo=github&logoColor=E8C766&labelColor=0A0A0A" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-0A0A0A?style=flat-square&labelColor=0A0A0A&color=6B5F42" /></a>
 
 </td>
 </tr>
-</table>
-
-<br/>
-
-<table width="100%">
 <tr>
 <td width="50%" valign="top">
+<h3>🌐 DSLogics Website</h3>
 
-### AI Voice Order Agent
-**Restaurant phone automation — in development**
+**Modern software company website**
 
-A voice agent that answers a phone call, parses a spoken order in natural language, and structures it for a restaurant's system. Currently in active development.
+A polished, animated, fully responsive site built to represent a software company's brand with a production-grade feel — no template scaffolding.
 
-`Voice AI` `LLMs` `Python`
+**Highlights**
+- Custom UI, built from scratch
+- Smooth motion & scroll animations
+- Fully responsive across devices
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-000000?style=flat-square&labelColor=000000&color=8A7CFF" /></a>
+`HTML` `CSS` `JavaScript` `React`
+
+<a href="#"><img src="https://img.shields.io/badge/Repository-0A0A0A?style=flat-square&logo=github&logoColor=E8C766&labelColor=0A0A0A" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Live%20Demo-Coming%20Soon-0A0A0A?style=flat-square&labelColor=0A0A0A&color=6B5F42" /></a>
 
 </td>
 <td width="50%" valign="top">
+<h3>🔬 ANN Research</h3>
 
-### ANN Research
-**Neural network built from first principles**
+**Artificial Neural Network, implemented from scratch**
 
-Forward and backward propagation implemented in raw NumPy, no framework — built to understand exactly what a training loop is doing, not to abstract it away.
+A from-first-principles neural network built in raw Python and NumPy — no framework abstraction — to understand exactly what's happening under the hood.
+
+**Highlights**
+- Forward & backward propagation implemented manually
+- Pure NumPy — no ML framework dependency
+- Built for understanding, not shortcuts
 
 `Python` `NumPy` `Machine Learning`
 
-<a href="#"><img src="https://img.shields.io/badge/Repository-000000?style=flat-square&labelColor=000000&color=8A7CFF" /></a>
+<a href="#"><img src="https://img.shields.io/badge/Repository-0A0A0A?style=flat-square&logo=github&logoColor=E8C766&labelColor=0A0A0A" /></a>
 
 </td>
 </tr>
 </table>
 
-<details>
-<summary><sub><b>Also on GitHub</b></sub></summary>
 <br/>
 
-**DSLogics Website** — a responsive, animated company site built without a template scaffold, in React and vanilla CSS.
+<!-- ─────────────────────── ANALYTICS ─────────────────────── -->
 
-</details>
+## `05` — GitHub Analytics
 
-&nbsp;
+<div align="center">
 
-## Trajectory
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-PyDev&show_icons=true&theme=transparent&hide_border=true&bg_color=00000000&title_color=E8C766&icon_color=E8C766&text_color=B8A578&ring_color=E8C766" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-PyDev&theme=transparent&hide_border=true&background=00000000&ring=E8C766&fire=E8C766&currStreakLabel=E8C766&sideLabels=B8A578&currStreakNum=E8C766&sideNums=B8A578&dates=6B5F42" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-PyDev&layout=compact&theme=transparent&hide_border=true&bg_color=00000000&title_color=E8C766&text_color=B8A578&langs_count=8" width="49%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-PyDev&bg_color=00000000&color=E8C766&line=E8C766&point=B8A578&hide_border=true&custom_title=Activity" width="49%" />
+
+</div>
+
+<br/>
+
+<!-- ─────────────────────── ROADMAP ─────────────────────── -->
+
+## `06` — Learning Roadmap
 
 ```
-2024   Python · Git · HTML/CSS/JS — the fundamentals
-2025   FastAPI · REST APIs · Prompt Engineering · RAG · Vector Search
-2026   Agentic AI · Multi-Agent Systems · MCP        ← now
-       Docker · Kubernetes · production deployment    ← next
+2024 ──● Python Fundamentals · Git & GitHub · HTML / CSS / JS
+        │
+2025 ──● FastAPI · REST APIs · Pandas / NumPy · Prompt Engineering
+        │
+        ● OpenAI & Gemini APIs · Embeddings · Vector Search · RAG
+        │
+2026 ──● Agentic AI · Multi-Agent Systems      ◀── in progress
+        │
+        ● Model Context Protocol (MCP)          ◀── in progress
+        │
+        ● Docker · Kubernetes · Cloud Deployment
+        │
+        ○ Production AI Systems at Scale
 ```
 
-&nbsp;
+<br/>
 
-## How I Work
+<!-- ─────────────────────── GOALS ─────────────────────── -->
+
+## `07` — Current Goals
 
 <table width="100%">
 <tr><td>
 
-I'd rather ship a small system that's actually relied on than a large one that stays a proof of concept. Most of the interesting problems in AI engineering right now aren't "can I call the API" — they're retrieval quality, latency under load, and what happens when the model is wrong. That's the layer I spend my time in.
+- [x] Master Python fundamentals & backend development
+- [x] Build a working RAG pipeline end-to-end
+- [x] Ship a multi-feature AI product (MemoAI)
+- [ ] Master Agentic AI & multi-agent orchestration
+- [ ] Deploy production AI systems with Docker & Kubernetes
+- [ ] Launch an AI SaaS product
+- [ ] Contribute meaningfully to open source
+- [ ] Work with international teams and clients
 
 </td></tr>
 </table>
 
-&nbsp;
+<br/>
 
-## Connect
+<!-- ─────────────────────── PHILOSOPHY ─────────────────────── -->
+
+## `08` — Developer Philosophy
+
+<table width="100%">
+<tr><td>
+
+> I don't build AI features to prove AI was used — I build them because they remove real friction from someone's day.
+
+Every project here starts from a question: *what is the actual problem, and what's the smallest system that solves it well?* Not the most impressive architecture. Not the trendiest stack. The one that works, that a real person can rely on, and that I can maintain without dreading it six months later.
+
+The best AI engineers right now aren't the ones who can call an API — they're the ones who understand *systems*: how retrieval, memory, latency, and failure modes interact when a model is just one component in a larger product. That's the layer I'm building toward.
+
+</td></tr>
+</table>
+
+<br/>
+
+<!-- ─────────────────────── CONNECT ─────────────────────── -->
+
+## `09` — Connect
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&labelColor=000000&color=8A7CFF" />
-<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&labelColor=000000&color=8A7CFF" />
+<a href="https://github.com/Abdullah-PyDev">
+  <img src="https://img.shields.io/badge/GitHub-Abdullah--PyDev-0A0A0A?style=for-the-badge&logo=github&logoColor=E8C766&labelColor=0A0A0A" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A0A0A?style=for-the-badge&logo=linkedin&logoColor=E8C766&labelColor=0A0A0A" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Email-Contact-0A0A0A?style=for-the-badge&logo=gmail&logoColor=E8C766&labelColor=0A0A0A" />
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Twitter-Follow-0A0A0A?style=for-the-badge&logo=x&logoColor=E8C766&labelColor=0A0A0A" />
+</a>
 
 </div>
 
 <br/>
 
+<!-- ─────────────────────── FOOTER ─────────────────────── -->
+
 <div align="center">
-<sub>Building in public, one shipped system at a time.</sub>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" height="2px" />
+
+<br/>
+
+<i>"The best system is the one that's actually used."</i>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0A0A0A,50:151013,100:0A0A0A&height=100&section=footer" width="100%"/>
+
 </div>
