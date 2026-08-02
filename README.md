@@ -1,8 +1,8 @@
 <!--
   ═══════════════════════════════════════════════════════════
   README.md — Abdullah Shafiq
-  Theme: Obsidian & Champagne Gold — v3
-  Full content restored, single luxury palette throughout
+  Theme: Obsidian & Champagne Gold — v3.1
+  Analytics section removed
   ═══════════════════════════════════════════════════════════
 -->
 
@@ -283,27 +283,9 @@ A from-first-principles neural network built in raw Python and NumPy — no fram
 
 <br/>
 
-<!-- ─────────────────────── ANALYTICS ─────────────────────── -->
-
-## `05` — GitHub Analytics
-
-<div align="center">
-
-<img src="https://github-stats-extended.vercel.app/api?username=Abdullah-PyDev&show_icons=true&hide_border=true&bg_color=0A0A0A&title_color=E8C766&icon_color=E8C766&text_color=B8A578&ring_color=E8C766" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-PyDev&hide_border=true&background=0A0A0A&ring=E8C766&fire=E8C766&currStreakLabel=E8C766&sideLabels=B8A578&currStreakNum=E8C766&sideNums=B8A578&dates=6B5F42" width="49%" />
-
-<br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=Abdullah-PyDev&layout=compact&hide_border=true&bg_color=0A0A0A&title_color=E8C766&text_color=B8A578&langs_count=8" width="49%" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Abdullah-PyDev&bg_color=0A0A0A&color=E8C766&line=E8C766&point=B8A578&hide_border=true&custom_title=Activity" width="49%" />
-
-</div>
-
-<br/>
-
 <!-- ─────────────────────── ROADMAP ─────────────────────── -->
 
-## `06` — Learning Roadmap
+## `05` — Learning Roadmap
 
 <div align="center">
 <img src="https://progress-bar.xyz/62/?title=Overall%20Progress&width=420&color=E8C766&suffix=%25&titleColor=B8A578" />
@@ -359,7 +341,7 @@ A from-first-principles neural network built in raw Python and NumPy — no fram
 
 <!-- ─────────────────────── GOALS ─────────────────────── -->
 
-## `07` — Current Goals
+## `06` — Current Goals
 
 <table width="100%">
 <tr><td>
@@ -380,7 +362,7 @@ A from-first-principles neural network built in raw Python and NumPy — no fram
 
 <!-- ─────────────────────── PHILOSOPHY ─────────────────────── -->
 
-## `08` — Developer Philosophy
+## `07` — Developer Philosophy
 
 <table width="100%">
 <tr><td>
@@ -398,7 +380,7 @@ The best AI engineers right now aren't the ones who can call an API — they're 
 
 <!-- ─────────────────────── CONNECT ─────────────────────── -->
 
-## `09` — Connect
+## `08` — Connect
 
 <div align="center">
 
